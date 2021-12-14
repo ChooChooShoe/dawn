@@ -87,10 +87,6 @@
       height: auto;
       overflow: hidden;
     }
-    .menu-drawer__inner-container {
-/*       height: calc(var(--viewport-height,100vh) - (var(--header-bottom-position,100%))); */
-      
-    }
     #MainContent, 
     #shopify-section-footer
     {
@@ -658,17 +654,15 @@
   // Added by Timothy Durbano
   function autoClickMenu(x) {
     if (x.matches) { // If media query matches
-        var q = document.getElementById('Details-menu-drawer-container');
-        q.setAttribute('open', '');
+        var q = document.getElementById('Details-menu-drawer-container').open = true;
     } else {
-        var q = document.getElementById('Details-menu-drawer-container');
-        q.removeAttribute('open');
+        var q = document.getElementById('Details-menu-drawer-container').open = false;
     }
   }
 
-  var x = window.matchMedia("(min-width: 990px)")
-  autoClickMenu(x) // Call listener function at run time
-  x.addListener(autoClickMenu) // Attach listener function on state changes
+  var x = window.matchMedia("(min-width: 990px)");
+  autoClickMenu(x); // Call listener function at run time
+  x.addListener(autoClickMenu); // Attach listener function on state changes
         
         
 {% endjavascript %}
