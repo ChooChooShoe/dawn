@@ -51,7 +51,7 @@
             "type": "announcement",
             "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Did you inherit a stamp collection? Click here...",
               "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/inherit"
             }
