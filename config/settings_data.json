@@ -69,7 +69,7 @@
         "settings": {
           "color_scheme": "background-2",
           "logo": "shopify:\/\/shop_images\/New_DSI_Logo_72448b78-b790-4d26-a41b-d075e2fb823b.gif",
-          "logo_width": 250,
+          "logo_width": 500,
           "logo_position": "middle-left",
           "menu": "sidebar-menu",
           "show_line_separator": true,
