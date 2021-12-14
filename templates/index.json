@@ -40,19 +40,19 @@
     },
     "rich_text": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "(416) 407-2422",
             "heading_size": "h1"
           }
         },
         "92d37d7b-7c0c-4d8c-a8e1-5305f8258ca1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p><a href=\"tel:4164072422\">(416) 407-2422<\/a><\/p>"
           }
         }
       },
