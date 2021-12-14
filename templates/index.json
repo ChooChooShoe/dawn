@@ -1,7 +1,43 @@
 {
   "sections": {
+    "1639511882d186158a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1639511882f4a04e22-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "DURBANO STAMPS: THE PERFIN SPECIALISTS"
+          }
+        },
+        "9dd259b8-0731-4146-86e6-c8a484fc2f22": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>(416) 407-2422<\/strong><\/p>"
+          }
+        },
+        "1639511882f4a04e22-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "1639511882f4a04e22-0",
+        "9dd259b8-0731-4146-86e6-c8a484fc2f22",
+        "1639511882f4a04e22-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/OA158_Bluenose_Block_front.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -40,6 +76,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -67,7 +104,6 @@
     },
     "featured_products": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Featured products",
         "collection": "all",
@@ -208,6 +244,7 @@
     }
   },
   "order": [
+    "1639511882d186158a",
     "image_banner",
     "rich_text",
     "featured_products",
