@@ -69,7 +69,7 @@
           "color_scheme": "background-2",
           "logo": "shopify:\/\/shop_images\/DSI_Wesite_Logo_BNAPS_CSDA_378cc922-0a8a-4e31-bd1e-b7f797e91d38.jpg",
           "logo_width": 250,
-          "logo_position": "top-center",
+          "logo_position": "middle-left",
           "menu": "sidebar-menu",
           "show_line_separator": true,
           "enable_sticky_header": false
