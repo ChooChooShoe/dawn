@@ -49,7 +49,6 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "Did you inherit a stamp collection? Click here...",
               "color_scheme": "accent-1",
