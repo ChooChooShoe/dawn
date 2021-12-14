@@ -50,7 +50,7 @@
           "05bcb34d-c90e-4fa1-875e-c5a9d8302147": {
             "type": "announcement",
             "settings": {
-              "text": "Did you inherit a stamp collection? Click here...",
+              "text": "Did you inherit a stamp collection?",
               "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/inherit"
             }
