@@ -49,10 +49,11 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
-              "text": "Did you inherit a stamp collection? Click here...",
+              "text": "Welcome to our store",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/pages\/inherit"
+              "link": ""
             }
           }
         },
@@ -66,8 +67,9 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-2",
+          "logo": "shopify:\/\/shop_images\/DSI_Wesite_Logo_BNAPS_CSDA_378cc922-0a8a-4e31-bd1e-b7f797e91d38.jpg",
           "logo_width": 250,
-          "logo_position": "top-left",
+          "logo_position": "top-center",
           "menu": "sidebar-menu",
           "show_line_separator": true,
           "enable_sticky_header": false
