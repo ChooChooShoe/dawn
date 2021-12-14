@@ -5,87 +5,9 @@
       "settings": {
       }
     },
-    "1639525108f46fbb59": {
-      "type": "featured-product",
-      "blocks": {
-        "1639525108fea3bb4d-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1639525108fea3bb4d-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "1639525108fea3bb4d-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1639525108fea3bb4d-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1639525108fea3bb4d-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1639525108fea3bb4d-5": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "1639525108fea3bb4d-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1639525108fea3bb4d-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1639525108fea3bb4d-0",
-        "1639525108fea3bb4d-1",
-        "1639525108fea3bb4d-2",
-        "1639525108fea3bb4d-3",
-        "1639525108fea3bb4d-4",
-        "1639525108fea3bb4d-5",
-        "1639525108fea3bb4d-6",
-        "1639525108fea3bb4d-7"
-      ],
-      "settings": {
-        "product": "on-site-stamp-appraisals",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
-      }
-    },
     "16395257562c77ed0f": {
       "type": "collage",
       "blocks": {
-        "16395257568874b333-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
         "16395257568874b333-1": {
           "type": "product",
           "settings": {
@@ -94,20 +16,10 @@
             "image_padding": false,
             "secondary_background": false
           }
-        },
-        "16395257568874b333-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
         }
       },
       "block_order": [
-        "16395257568874b333-0",
-        "16395257568874b333-1",
-        "16395257568874b333-2"
+        "16395257568874b333-1"
       ],
       "settings": {
         "heading": "Multimedia collage",
@@ -118,7 +30,6 @@
   },
   "order": [
     "main",
-    "1639525108f46fbb59",
     "16395257562c77ed0f"
   ]
 }
