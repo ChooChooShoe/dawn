@@ -47,18 +47,17 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "announcement-bar-0": {
+          "05bcb34d-c90e-4fa1-875e-c5a9d8302147": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Did you inherit a stamp collection? Click here...",
               "color_scheme": "accent-1",
-              "link": ""
+              "link": "shopify:\/\/pages\/inherit"
             }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "05bcb34d-c90e-4fa1-875e-c5a9d8302147"
         ],
         "settings": {
         }
