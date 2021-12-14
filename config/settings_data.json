@@ -26,13 +26,21 @@
             "type": "text",
             "settings": {
               "heading": "About Us",
-              "subtext": "<p>Durbano Stamps<\/p><p>PO Box 77066, Highway 7 R.P.O.<\/p><p>Markham, ON L3P 0C8, Canada<\/p><p>Call: <a href=\"tel:(416) 407-2422\" target=\"_blank\" title=\"tel:(416) 407-2422\">(416) 407-2422<\/a><\/p><p>Email: <a href=\"mailto:DurbanoStamps@gmail.com\" target=\"_blank\" title=\"mailto:DurbanoStamps@gmail.com\">DurbanoStamps@gmail.com<\/a><\/p>"
+              "subtext": "<p><strong>Durbano Stamps Inc.<br\/>PO Box 77066, Highway 7 RPO<br\/>Markham, ON L3P 0C8 CANADA<\/strong><\/p><p><strong>Phone: (416) 407-2422<\/strong><\/p><p><strong>Email: DurbanoStamps@gmail.com<\/strong><\/p>"
+            }
+          },
+          "a9942b7d-b4a3-4df8-a434-242b6ab8a84e": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
             }
           }
         },
         "block_order": [
           "menu",
-          "text"
+          "text",
+          "a9942b7d-b4a3-4df8-a434-242b6ab8a84e"
         ],
         "settings": {
           "color_scheme": "accent-1",
