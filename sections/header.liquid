@@ -21,7 +21,7 @@
   }
 
   @media screen and (min-width: 990px) {
-    header-drawer {
+    .header__icon--menu {
       display: none;
     }
   }
@@ -63,6 +63,53 @@
       padding-bottom: 0.5rem;
       padding-top: 0.5rem;
     }
+  }
+  
+ /* By Timothy Durbano */
+  @media screen and (min-width: 990px) {
+/*     #shopify-section-header { */
+      #menu-drawer{
+    transform: translateX(0);
+    visibility: visible;
+        transition: none;
+      margin: 0;
+      padding: 0;
+      width: 25rem;
+        
+      position:absolute;
+/*       top:0;
+      bottom:0;
+      left:0;
+      right:0; */
+/*       top: var(--header-bottom-position,100%); 
+/*       height: 100%; */
+/*       height: 100%; */
+      height: auto;
+      overflow: hidden;
+    }
+    .menu-drawer__inner-container {
+/*       height: calc(var(--viewport-height,100vh) - (var(--header-bottom-position,100%))); */
+      
+    }
+    #MainContent, 
+    #shopify-section-footer
+    {
+      margin-left: 25rem;
+    }
+    
+  }
+  @media screen and (min-width: 990px) {
+  .fake-background {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 25rem;
+    z-index: -1;
+  }
+  
+    
   }
 </style>
 
@@ -477,7 +524,7 @@
       {%- if shop.customer_accounts_enabled -%}
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
           {% render 'icon-account' %}
-          <span class="visually-hidden">
+          <span>
             {%- liquid
               if customer
                 echo 'customer.account_fallback' | t
@@ -490,14 +537,13 @@
       {%- endif -%}
 
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
-        {%- liquid
-          if cart == empty
+        {%- liquid if cart == empty
             render 'icon-cart-empty'
           else
             render 'icon-cart'
           endif
         -%}
-        <span class="visually-hidden">{{ 'templates.cart.cart' | t }}</span>
+        <span>{{ 'templates.cart.cart' | t }}</span>
         {%- if cart != empty -%}
           <div class="cart-count-bubble">
             {%- if cart.item_count < 100 -%}
@@ -511,6 +557,10 @@
   </header>
 </{% if section.settings.enable_sticky_header %}sticky-header{% else %}div{% endif %}>
 
+<div class="fake-background color-{{ section.settings.color_scheme }} gradient"> 
+
+
+</div>
 {%- render 'cart-notification', color_scheme: section.settings.color_scheme -%}
 
 {% javascript %}
@@ -603,6 +653,24 @@
   }
 
   customElements.define('sticky-header', StickyHeader);
+      
+        
+  // Added by Timothy Durbano
+  function autoClickMenu(x) {
+    if (x.matches) { // If media query matches
+        var q = document.getElementById('Details-menu-drawer-container');
+        q.setAttribute('open', '');
+    } else {
+        var q = document.getElementById('Details-menu-drawer-container');
+        q.removeAttribute('open');
+    }
+  }
+
+  var x = window.matchMedia("(min-width: 990px)")
+  autoClickMenu(x) // Call listener function at run time
+  x.addListener(autoClickMenu) // Attach listener function on state changes
+        
+        
 {% endjavascript %}
 
 <script type="application/ld+json">
