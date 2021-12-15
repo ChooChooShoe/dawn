@@ -9,6 +9,8 @@
     "colors_background_2": "#c1bcae",
     "type_header_font": "sans-serif",
     "type_body_font": "sans-serif",
+    "social_facebook_link": "https:\/\/facebook.com\/durbanostamps",
+    "social_instagram_link": "https:\/\/www.instagram.com\/durbanostamps",
     "predictive_search_enabled": true,
     "favicon": "shopify:\/\/shop_images\/oa231AS_mint_back_flip.jpg",
     "sections": {
@@ -50,7 +52,7 @@
           "05bcb34d-c90e-4fa1-875e-c5a9d8302147": {
             "type": "announcement",
             "settings": {
-              "text": "Did you inherit a stamp collection? Click here...",
+              "text": "Did you inherit a stamp collection?",
               "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/inherit"
             }
@@ -66,8 +68,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-2",
-          "logo": "shopify:\/\/shop_images\/DSI_Wesite_Logo_BNAPS_CSDA_378cc922-0a8a-4e31-bd1e-b7f797e91d38.jpg",
-          "logo_width": 250,
+          "logo": "shopify:\/\/shop_images\/DurbanoStampsLogo2021.png",
+          "logo_width": 400,
           "logo_position": "middle-left",
           "menu": "sidebar-menu",
           "show_line_separator": true,

@@ -1,12 +1,48 @@
 {
   "sections": {
+    "1639511882d186158a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1639511882f4a04e22-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "DURBANO STAMPS: THE PERFIN SPECIALISTS"
+          }
+        },
+        "9dd259b8-0731-4146-86e6-c8a484fc2f22": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>(416) 407-2422<\/strong><\/p>"
+          }
+        },
+        "1639511882f4a04e22-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "1639511882f4a04e22-0",
+        "9dd259b8-0731-4146-86e6-c8a484fc2f22",
+        "1639511882f4a04e22-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/OA158_Bluenose_Block_front.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to Durbano Stamps",
+            "heading": "DURBANO STAMPS: THE PERFIN SPECIALISTS",
             "heading_size": "medium"
           }
         },
@@ -35,7 +71,7 @@
         "image_overlay_opacity": 0,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "rich_text": {
@@ -45,14 +81,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "(416) 407-2422",
             "heading_size": "h1"
           }
         },
         "92d37d7b-7c0c-4d8c-a8e1-5305f8258ca1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p><a href=\"tel:4164072422\">(416) 407-2422<\/a><\/p>"
           }
         }
       },
@@ -67,7 +104,6 @@
     },
     "featured_products": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Featured products",
         "collection": "all",
@@ -75,7 +111,7 @@
         "show_view_all": true,
         "swipe_on_mobile": false,
         "image_ratio": "square",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
@@ -208,6 +244,7 @@
     }
   },
   "order": [
+    "1639511882d186158a",
     "image_banner",
     "rich_text",
     "featured_products",
