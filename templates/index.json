@@ -6,7 +6,7 @@
         "1639511882f4a04e22-0": {
           "type": "heading",
           "settings": {
-            "heading": "DURBANO STAMPS: THE PERFIN SPECIALISTS"
+            "heading": "DURBANO STAMPS: PERFIN SPECIALISTS"
           }
         },
         "9dd259b8-0731-4146-86e6-c8a484fc2f22": {
@@ -32,7 +32,7 @@
         "image": "shopify:\/\/shop_images\/OA158_Bluenose_Block_front.jpg",
         "height": "adapt",
         "color_scheme": "accent-2",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "image_banner": {
