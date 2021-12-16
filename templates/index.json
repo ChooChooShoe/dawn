@@ -109,7 +109,7 @@
         "collection": "all",
         "products_to_show": 4,
         "show_view_all": true,
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "square",
         "show_secondary_image": true,
         "add_image_padding": false,
@@ -175,17 +175,17 @@
         },
         "column2": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/circle-cropped-3.png",
-            "title": "Patrick Durbano, Chief Philatelist",
-            "text": "<p>Patrick has collected stamps since he was eight years old. At age 12 Patrick began to focus on the stamps of Canada, Britain and Germany and by age 15 he began to also focus on perfins.<\/p><p>Patrick has exhibited perfins and especially his perforated OHMS Canadian Official perfins both locally and nationally since 1993.<\/p><p>In 1995 he won a Small Gold at ROYAL 95 ROYALE in Quebec City and a year later he won a Vermeil at the International CAPEX 96 show in Toronto.<\/p>",
+            "title": "Patrick Durbano, President and Chief Philatelic Officer",
+            "text": "<p>Patrick has collected stamps since he was eight years. At 12 he  focused on Canada, Britain and Germany and at 18 he  concentrated on perfins.<\/p><p> <\/p><p>Patrick has exhibited perfins and especially his perforated OHMS Canadian Official perfins both locally and nationally since 1993. In 1995 he won a Small Gold at ROYAL 95 ROYALE in Quebec City and a year later won a Vermeil at the international CAPEX 96 show in Toronto.<\/p><p> <\/p><p>In 2018 Durbano Stamps became a full-time dealer within the CSDA and in 2020 Patrick was invited to join the Board of Executives.<\/p><p> <\/p><p>Patrick continues to exhibit and in 2021 won Gold at both BNAPEX 21 and the ROYAL 21. In 2022, he will be a dealer at CAPEX22 in June.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
         "column3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/circle-cropped-1.png",
             "title": "Philatelic Services Offered",
