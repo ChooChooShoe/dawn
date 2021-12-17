@@ -56,11 +56,18 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "b7d82b3d-ec97-4be7-a481-d6d31dd2f10d": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
         }
       },
       "block_order": [
         "heading",
-        "button"
+        "button",
+        "b7d82b3d-ec97-4be7-a481-d6d31dd2f10d"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/OA158_Bluenose_Block_front.jpg",
