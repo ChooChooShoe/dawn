@@ -219,6 +219,41 @@
         "swipe_on_mobile": false
       }
     },
+    "030f6be6-36e3-48e9-913d-5fd963105e4f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "2023 Stamp Show Schedule",
+            "heading_size": "h2"
+          }
+        },
+        "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The schedule for all up the coming stamps shows that Durbano Stamps will be attending in 2023 is avalble online now. We hope to see you there.<\/p>"
+          }
+        },
+        "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "2023 Stamp Show Schedule",
+            "button_link": "shopify:\/\/pages\/2023-stamp-show-schedule",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-0",
+        "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-1",
+        "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "1638820242d15d60b4": {
       "type": "newsletter",
       "blocks": {
@@ -259,6 +294,7 @@
     "collage",
     "video",
     "multi_column",
+    "030f6be6-36e3-48e9-913d-5fd963105e4f",
     "1638820242d15d60b4"
   ]
 }
