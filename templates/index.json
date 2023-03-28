@@ -238,7 +238,7 @@
         "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-2": {
           "type": "button",
           "settings": {
-            "button_label": "2023 Stamp Show Schedule",
+            "button_label": "Click for 2023 Stamp Show Schedule",
             "button_link": "shopify:\/\/pages\/2023-stamp-show-schedule",
             "button_style_secondary": false
           }
