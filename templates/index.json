@@ -37,7 +37,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -69,6 +68,7 @@
         "button",
         "b7d82b3d-ec97-4be7-a481-d6d31dd2f10d"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/OA158_Bluenose_Block_front.jpg",
         "image_height": "small",
@@ -83,7 +83,6 @@
     },
     "rich_text": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -104,6 +103,7 @@
         "heading",
         "92d37d7b-7c0c-4d8c-a8e1-5305f8258ca1"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
@@ -128,7 +128,6 @@
     },
     "collage": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "product": {
           "type": "product",
@@ -152,6 +151,7 @@
         "product",
         "collection"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "desktop_layout": "left",
@@ -225,21 +225,21 @@
         "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-0": {
           "type": "heading",
           "settings": {
-            "heading": "2023 Stamp Show Schedule",
-            "heading_size": "h2"
+            "heading": "2024 Stamp Show Schedule",
+            "heading_size": "h1"
           }
         },
         "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The schedule for all up the coming stamps shows that Durbano Stamps will be attending in 2023 is available online now. We hope to see you there.<\/p>"
+            "text": "<p>The schedule for all up the coming stamps shows that Durbano Stamps will be attending in 2024 is available online now. We hope to see you there.<\/p>"
           }
         },
         "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-2": {
           "type": "button",
           "settings": {
-            "button_label": "Click for 2023 Stamp Show Schedule",
-            "button_link": "shopify:\/\/pages\/2023-stamp-show-schedule",
+            "button_label": "Click for 2024 Stamp Show Schedule",
+            "button_link": "shopify:\/\/pages\/2024-stamp-show-schedule",
             "button_style_secondary": false
           }
         }
@@ -250,7 +250,7 @@
         "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true
       }
     },
