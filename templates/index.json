@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1639511882d186158a": {
@@ -12,14 +21,14 @@
         "9dd259b8-0731-4146-86e6-c8a484fc2f22": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>(416) 407-2422<\/strong><\/p>"
+            "text": "<p><strong>(416) 407-2422</strong></p>"
           }
         },
         "1639511882f4a04e22-2": {
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections"
+            "button_link": "shopify://collections"
           }
         }
       },
@@ -29,7 +38,7 @@
         "1639511882f4a04e22-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/OA158_Bluenose_Block_front.jpg",
+        "image": "shopify://shop_images/OA158_Bluenose_Block_front.jpg",
         "height": "adapt",
         "color_scheme": "accent-2",
         "layout": "text_first"
@@ -49,7 +58,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -70,7 +79,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/OA158_Bluenose_Block_front.jpg",
+        "image": "shopify://shop_images/OA158_Bluenose_Block_front.jpg",
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
@@ -95,7 +104,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p><a href=\"tel:4164072422\">(416) 407-2422<\/a><\/p>"
+            "text": "<p><a href=\"tel:4164072422\">(416) 407-2422</a></p>"
           }
         }
       },
@@ -163,7 +172,7 @@
       "disabled": true,
       "settings": {
         "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false
       }
@@ -174,30 +183,30 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/circle-cropped-1.png",
+            "image": "shopify://shop_images/circle-cropped-1.png",
             "title": "Durbano Stamps... dealing since 1992",
-            "text": "<p>Durbano Stamps is a full-time online stamp business in Markham, Ontario just north of Toronto, Canada. Since 1992, Durbano Stamps has provided highly personalized service to meet the specific philatelic needs of collectors.<\/p><p> <\/p><p>Since most items are one-of-a-kind, we ensure that each comes with a detailed description. We also offer a 100% Moneyback Guarantee if what you receive is not what we described. Also, as a leading expert in OHMS perfins, Durbano Stamps warrants all their OHMS 5-Hole perfins as GENUINE for as long as you own that stamp.<\/p><p> <\/p><p>We cater to many specialists looking to fill \"holes\" in their collections. We invite you to explore our online stock, order with 100% confidence and submit your want list for any items you do not see. <\/p>",
+            "text": "<p>Durbano Stamps is a full-time online stamp business in Markham, Ontario just north of Toronto, Canada. Since 1992, Durbano Stamps has provided highly personalized service to meet the specific philatelic needs of collectors.</p><p> </p><p>Since most items are one-of-a-kind, we ensure that each comes with a detailed description. We also offer a 100% Moneyback Guarantee if what you receive is not what we described. Also, as a leading expert in OHMS perfins, Durbano Stamps warrants all their OHMS 5-Hole perfins as GENUINE for as long as you own that stamp.</p><p> </p><p>We cater to many specialists looking to fill \"holes\" in their collections. We invite you to explore our online stock, order with 100% confidence and submit your want list for any items you do not see. </p>",
             "link_label": "OUR SERVICES",
-            "link": "shopify:\/\/pages\/services"
+            "link": "shopify://pages/services"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/circle-cropped-3.png",
+            "image": "shopify://shop_images/circle-cropped-3.png",
             "title": "Patrick Durbano, Chief Philatelic Officer",
-            "text": "<p>Patrick has collected stamps since he was eight years. At 12 he  focused on Canada, Britain and Germany and at 18 he  concentrated on perfins.<\/p><p> <\/p><p>Patrick has exhibited perfins and especially his perforated OHMS Canadian Official perfins both locally and nationally since 1993. In 1995 he won a Small Gold at ROYAL 95 ROYALE in Quebec City and a year later won a Vermeil at the international CAPEX 96 show in Toronto.<\/p><p> <\/p><p>In 2018 Durbano Stamps became a full-time dealer within the CSDA and in 2020 Patrick was invited to join the Board of Executives.<\/p><p> <\/p><p>Patrick continues to exhibit and in 2021 won Gold at both BNAPEX 21 and the ROYAL 21 ROYALE. In 2022, he will be a dealer at CAPEX22 in June.<\/p>",
+            "text": "<p>Patrick has collected stamps since he was eight years. At 12 he  focused on Canada, Britain and Germany and at 18 he  concentrated on perfins.</p><p> </p><p>Patrick has exhibited perfins and especially his perforated OHMS Canadian Official perfins both locally and nationally since 1993. In 1995 he won a Small Gold at ROYAL 95 ROYALE in Quebec City and a year later won a Vermeil at the international CAPEX 96 show in Toronto.</p><p> </p><p>In 2018 Durbano Stamps became a full-time dealer within the CSDA and in 2020 Patrick was invited to join the Board of Executives.</p><p> </p><p>Patrick continues to exhibit and in 2021 won Gold at both BNAPEX 21 and the ROYAL 21 ROYALE. In 2022, he will be a dealer at CAPEX22 in June.</p>",
             "link_label": "MEMBERSHIPS",
-            "link": "shopify:\/\/pages\/memberships"
+            "link": "shopify://pages/memberships"
           }
         },
         "column3": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/circle-cropped-2.png",
+            "image": "shopify://shop_images/circle-cropped-2.png",
             "title": "Philatelic Services Offered",
-            "text": "<p>We focus on the stamps of Canada and Germany but we also have a large stock from Australia, United States,  Great Britain and Italy.<\/p><p>We're the largest Canadian dealer of individually priced Canadian & Worldwide Perfins<\/p><p>Plus we:<\/p><p>1. Fill Want Lists (Canada & Perfin)<\/p><p>2. Toronto-Area Auction Agents<\/p><p>3. Offer On-site Estate Appraisals<\/p><p>4. Philatelic Guest Speaker<\/p><p>5. Are Active Stamp Buyers<\/p>",
+            "text": "<p>We focus on the stamps of Canada and Germany but we also have a large stock from Australia, United States,  Great Britain and Italy.</p><p>We're the largest Canadian dealer of individually priced Canadian & Worldwide Perfins</p><p>Plus we:</p><p>1. Fill Want Lists (Canada & Perfin)</p><p>2. Toronto-Area Auction Agents</p><p>3. Offer On-site Estate Appraisals</p><p>4. Philatelic Guest Speaker</p><p>5. Are Active Stamp Buyers</p>",
             "link_label": "",
             "link": ""
           }
@@ -225,21 +234,21 @@
         "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-0": {
           "type": "heading",
           "settings": {
-            "heading": "2024 Stamp Show Schedule",
+            "heading": "2025 Stamp Show Schedule",
             "heading_size": "h1"
           }
         },
         "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The schedule for all up the coming stamps shows that Durbano Stamps will be attending in 2024 is available online now. We hope to see you there.<\/p>"
+            "text": "<p>The schedule for all up the coming stamps shows that Durbano Stamps will be attending in 2025 is available online now. We hope to see you there.</p>"
           }
         },
         "template--15362746515619__030f6be6-36e3-48e9-913d-5fd963105e4f-168002898075910121-2": {
           "type": "button",
           "settings": {
-            "button_label": "Click for 2024 Stamp Show Schedule",
-            "button_link": "shopify:\/\/pages\/2024-stamp-show-schedule",
+            "button_label": "Click for 2025 Stamp Show Schedule",
+            "button_link": "shopify://pages/2025-stamp-show-schedule",
             "button_style_secondary": false
           }
         }
@@ -266,13 +275,12 @@
         "163882024288dd0d34-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be first to know about new material, special offers and updates on our show schedule.<\/p>"
+            "text": "<p>Be first to know about new material, special offers and updates on our show schedule.</p>"
           }
         },
         "163882024288dd0d34-2": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
