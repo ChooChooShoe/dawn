@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#efecec",
@@ -9,11 +18,11 @@
     "colors_background_2": "#c1bcae",
     "type_header_font": "sans-serif",
     "type_body_font": "sans-serif",
-    "social_facebook_link": "https:\/\/facebook.com\/durbanostamps",
-    "social_instagram_link": "https:\/\/www.instagram.com\/durbanostamps",
+    "social_facebook_link": "https://facebook.com/durbanostamps",
+    "social_instagram_link": "https://www.instagram.com/durbanostamps",
     "predictive_search_enabled": true,
-    "favicon": "shopify:\/\/shop_images\/oa231AS_mint_back_flip.jpg",
-    "checkout_logo_image": "shopify:\/\/shop_images\/CAPEX22_dealer_logo.png",
+    "favicon": "shopify://shop_images/oa231AS_mint_back_flip.jpg",
+    "checkout_logo_image": "shopify://shop_images/CAPEX22_dealer_logo.png",
     "sections": {
       "footer": {
         "type": "footer",
@@ -29,7 +38,7 @@
             "type": "text",
             "settings": {
               "heading": "How to Contact Us:",
-              "subtext": "<p><strong>Durbano Stamps Inc.<br\/>PO Box 77066, Highway 7 RPO<br\/>Markham, ON L3P 0C8 CANADA<\/strong><\/p><p><strong>Phone: (416) 407-2422<\/strong><\/p><p><strong>Email: DurbanoStamps@gmail.com<\/strong><\/p>"
+              "subtext": "<p><strong>Durbano Stamps Inc.<br/>PO Box 77066, Highway 7 RPO<br/>Markham, ON L3P 0C8 CANADA</strong></p><p><strong>Phone: (416) 407-2422</strong></p><p><strong>Email: DurbanoStamps@gmail.com</strong></p>"
             }
           }
         },
@@ -55,21 +64,20 @@
             "settings": {
               "text": "Did you inherit a stamp collection?",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/pages\/inherit"
+              "link": "shopify://pages/inherit"
             }
           }
         },
         "block_order": [
           "05bcb34d-c90e-4fa1-875e-c5a9d8302147"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-2",
-          "logo": "shopify:\/\/shop_images\/DurbanoStampsLogo2021.png",
+          "logo": "shopify://shop_images/DurbanoStampsLogo2021.png",
           "logo_width": 400,
           "logo_position": "middle-left",
           "menu": "sidebar-menu",
@@ -78,12 +86,10 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#000000",
@@ -93,6 +99,11 @@
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
         }
+      },
+      "9278379683843197553": {
+        "type": "shopify://apps/appointment-booking-appointo/blocks/app-embed/8e9086b8-9c22-4cd3-b1d1-0967727a5d97",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
@@ -121,8 +132,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         }
       }
     },
@@ -142,13 +152,11 @@
           "blocks": {
             "menu": {
               "type": "link_list",
-              "settings": {
-              }
+              "settings": {}
             },
             "text": {
               "type": "text",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
