@@ -79,7 +79,6 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-2",
-          "logo": "shopify://shop_images/DurbanoStampsLogo2021.png",
           "logo_width": 400,
           "logo_position": "middle-left",
           "menu": "sidebar-menu",
@@ -104,6 +103,11 @@
       },
       "9278379683843197553": {
         "type": "shopify://apps/appointment-booking-appointo/blocks/app-embed/8e9086b8-9c22-4cd3-b1d1-0967727a5d97",
+        "disabled": false,
+        "settings": {}
+      },
+      "8814297988395605169": {
+        "type": "shopify://apps/adperfect-marketing-platform/blocks/app-embed/8b4a8c56-21b5-437e-95f9-cd5dc65ceb49",
         "disabled": false,
         "settings": {}
       }
