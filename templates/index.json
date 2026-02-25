@@ -9,6 +9,54 @@
  */
 {
   "sections": {
+    "multicolumn_ka9b8K": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YaP4Wa": {
+          "type": "column",
+          "settings": {
+            "title": "Inherit a collection?",
+            "text": "<h1>Here's what to do.</h1>",
+            "link_label": "",
+            "link": "shopify://pages/inherit"
+          }
+        },
+        "column_bhgM9P": {
+          "type": "column",
+          "settings": {
+            "title": "Where we will be.",
+            "text": "<h1>2026 Stamp Show Schedule</h1>",
+            "link_label": "",
+            "link": "shopify://pages/2026-stamp-show-schedule"
+          }
+        },
+        "column_zPDnme": {
+          "type": "column",
+          "settings": {
+            "title": "Special Editor's Rate",
+            "text": "<h1>2025-2026 Unitrade Specialized Catalogue of Canadian Stamps</h1>",
+            "link_label": "",
+            "link": "shopify://products/2025-2026-unitrade-specialized-catalogue-of-canadian-stamps"
+          }
+        }
+      },
+      "block_order": [
+        "column_YaP4Wa",
+        "column_bhgM9P",
+        "column_zPDnme"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1639511882d186158a": {
       "type": "image-with-text",
       "blocks": {
@@ -295,6 +343,7 @@
     }
   },
   "order": [
+    "multicolumn_ka9b8K",
     "1639511882d186158a",
     "image_banner",
     "rich_text",
