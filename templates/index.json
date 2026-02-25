@@ -25,7 +25,7 @@
           "type": "column",
           "settings": {
             "title": "Where we will be.",
-            "text": "<h1><a href=\"/pages/2026-stamp-show-schedule\" title=\"2026 Stamp Show Schedule\">2026 Stamp Show Schedule</a></h1>",
+            "text": "<h3><a href=\"/pages/2026-stamp-show-schedule\" title=\"2026 Stamp Show Schedule\">2026 Stamp Show Schedule</a></h3>",
             "link_label": "",
             "link": "shopify://pages/2026-stamp-show-schedule"
           }
@@ -34,7 +34,7 @@
           "type": "column",
           "settings": {
             "title": "Special Editor's Rate",
-            "text": "<h1><a href=\"/products/2025-2026-unitrade-specialized-catalogue-of-canadian-stamps\" title=\"2025-2026 Unitrade Specialized Catalogue of Canadian Stamps\">2025-2026 Unitrade Specialized Catalogue of Canadian Stamps</a></h1>",
+            "text": "<h3><a href=\"/products/2025-2026-unitrade-specialized-catalogue-of-canadian-stamps\" title=\"2025-2026 Unitrade Specialized Catalogue of Canadian Stamps\">2025-2026 Unitrade Specialized Catalogue of Canadian Stamps</a></h3>",
             "link_label": "",
             "link": "shopify://products/2025-2026-unitrade-specialized-catalogue-of-canadian-stamps"
           }
