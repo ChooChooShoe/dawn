@@ -16,7 +16,7 @@
           "type": "column",
           "settings": {
             "title": "Inherit a collection?",
-            "text": "<h1>Here's what to do.</h1>",
+            "text": "<h1><a href=\"/pages/inherit\" title=\"Inherit a stamp collection? Here's what to do.\">Here's what to do</a>.</h1>",
             "link_label": "",
             "link": "shopify://pages/inherit"
           }
