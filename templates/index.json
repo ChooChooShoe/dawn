@@ -25,7 +25,7 @@
           "type": "column",
           "settings": {
             "title": "Where we will be.",
-            "text": "<h1>2026 Stamp Show Schedule</h1>",
+            "text": "<h1><a href=\"/pages/2026-stamp-show-schedule\" title=\"2026 Stamp Show Schedule\">2026 Stamp Show Schedule</a></h1>",
             "link_label": "",
             "link": "shopify://pages/2026-stamp-show-schedule"
           }
