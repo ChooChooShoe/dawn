@@ -296,7 +296,7 @@
           "type": "button",
           "settings": {
             "button_label": "Click for 2026 Stamp Show Schedule",
-            "button_link": "shopify://pages/copy-of-upcoming-stamp-show-schedule",
+            "button_link": "shopify://pages/copy-of-existing-tamp-show-schedule",
             "button_style_secondary": false
           }
         }
