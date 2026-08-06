@@ -52,7 +52,7 @@
           "settings": {
             "image": "shopify://shop_images/20211214_133018.jpg",
             "title": "",
-            "text": "<h2>Did you inherit a collection?<br/><br/> <a href=\"/pages/inherit\" title=\"Inherit a stamp collection? Here's what to do.\">Here's what to do</a>.</h2>",
+            "text": "<h2><strong>Did you inherit a collection?<br/></strong><a href=\"/pages/inherit\" title=\"Inherit a stamp collection? Here's what to do.\"><strong>Here's what to do</strong></a><strong>.</strong></h2>",
             "link_label": "",
             "link": "shopify://pages/inherit"
           }
@@ -61,8 +61,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/20250427_153558.jpg",
-            "title": "Where will we be?",
-            "text": "<h3><a href=\"/pages/copy-of-existing-tamp-show-schedule\" title=\"Updated 2026 Show Schedule\">2026 Stamp Show Schedule</a></h3>",
+            "title": "",
+            "text": "<h2><strong>Where will we be?<br/></strong><a href=\"/pages/copy-of-existing-tamp-show-schedule\" title=\"Updated 2026 Show Schedule\"><strong>2026 Stamp Show Schedule</strong></a></h2>",
             "link_label": "",
             "link": "shopify://pages/copy-of-existing-tamp-show-schedule"
           }
