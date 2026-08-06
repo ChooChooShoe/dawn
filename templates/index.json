@@ -129,6 +129,7 @@
       "disabled": true,
       "settings": {
         "image": "shopify://shop_images/OA158_Bluenose_Block_front.jpg",
+        "image_2": "shopify://shop_images/2027_Vol1_Vol2_Set.jpg",
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
