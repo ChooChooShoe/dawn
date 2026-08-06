@@ -39,7 +39,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/2027_Vol1_Vol2_Set.jpg",
-        "height": "large",
+        "height": "small",
         "color_scheme": "background-2",
         "layout": "image_first"
       }
