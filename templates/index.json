@@ -243,7 +243,6 @@
         },
         "column3": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/circle-cropped-2.png",
             "title": "Philatelic Services Offered",
