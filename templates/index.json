@@ -27,8 +27,8 @@
         "1639511882f4a04e22-2": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify://collections"
+            "button_label": "Pre-order Now",
+            "button_link": "shopify://products/2027-unitrade-specialized-catalogue-of-canadian-stamps"
           }
         }
       },
