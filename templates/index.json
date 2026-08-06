@@ -47,16 +47,6 @@
     "multicolumn_ka9b8K": {
       "type": "multicolumn",
       "blocks": {
-        "column_9hQiCm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/OA158_Bluenose_Block_front.jpg",
-            "title": "DURBANO STAMPS",
-            "text": "<p><strong>(416) 407-2422</strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_YaP4Wa": {
           "type": "column",
           "settings": {
@@ -65,16 +55,6 @@
             "text": "<h4><a href=\"/pages/inherit\" title=\"Inherit a stamp collection? Here's what to do.\">Here's what to do</a>.</h4>",
             "link_label": "",
             "link": "shopify://pages/inherit"
-          }
-        },
-        "column_zPDnme": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/2027_Vol1_Vol2_Set.jpg",
-            "title": "2027 Editor's Pre-order Discount Rate",
-            "text": "<h4><a href=\"/products/2027-unitrade-specialized-catalogue-of-canadian-stamps\" target=\"_blank\" title=\"Pre-Order SAVE $20 - 2027 Unitrade Specialized Catalogue of Canadian Stamps\">2027 Unitrade Specialized Catalogue of Canadian Stamps</a></h4>",
-            "link_label": "",
-            "link": "shopify://products/2027-unitrade-specialized-catalogue-of-canadian-stamps"
           }
         },
         "column_bhgM9P": {
@@ -89,9 +69,7 @@
         }
       },
       "block_order": [
-        "column_9hQiCm",
         "column_YaP4Wa",
-        "column_zPDnme",
         "column_bhgM9P"
       ],
       "name": "t:sections.multicolumn.presets.name",
