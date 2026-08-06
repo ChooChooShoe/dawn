@@ -21,6 +21,16 @@
             "link": "shopify://pages/inherit"
           }
         },
+        "column_zPDnme": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2027_Vol1_Vol2_Set.jpg",
+            "title": "2027 Editor's Pre-order Discount Rate",
+            "text": "<h4><a href=\"/products/2027-unitrade-specialized-catalogue-of-canadian-stamps\" target=\"_blank\" title=\"Pre-Order SAVE $20 - 2027 Unitrade Specialized Catalogue of Canadian Stamps\">2027 Unitrade Specialized Catalogue of Canadian Stamps</a></h4>",
+            "link_label": "",
+            "link": "shopify://products/2027-unitrade-specialized-catalogue-of-canadian-stamps"
+          }
+        },
         "column_bhgM9P": {
           "type": "column",
           "settings": {
@@ -29,21 +39,12 @@
             "link_label": "",
             "link": "shopify://pages/copy-of-existing-tamp-show-schedule"
           }
-        },
-        "column_zPDnme": {
-          "type": "column",
-          "settings": {
-            "title": "2027 Editor's Pre-order Discount Rate",
-            "text": "<h4><a href=\"/products/2027-unitrade-specialized-catalogue-of-canadian-stamps\" target=\"_blank\" title=\"Pre-Order SAVE $20 - 2027 Unitrade Specialized Catalogue of Canadian Stamps\">2027 Unitrade Specialized Catalogue of Canadian Stamps</a></h4>",
-            "link_label": "",
-            "link": "shopify://products/2027-unitrade-specialized-catalogue-of-canadian-stamps"
-          }
         }
       },
       "block_order": [
         "column_YaP4Wa",
-        "column_bhgM9P",
-        "column_zPDnme"
+        "column_zPDnme",
+        "column_bhgM9P"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
